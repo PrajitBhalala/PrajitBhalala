@@ -33,11 +33,11 @@ I believe in using the right tool for the job. Here are the technologies I work 
 ---
 
 ### 🏅 Certifications & Achievements
-* **Machine Learning by IBM** - *[](https://coursera.org/share/79f6d138f3a2e08d8733e911e342cf81)*
-* **Data Analysis with Python by IBM** - *[](https://coursera.org/share/fcfcc2b24bdc08e43117de448729bc25)*
-* **Data Visualization with Python by IBM** - *[](https://coursera.org/share/4570d67cea4c01b73f33f550e2c09aaa)*
-* **Databases and SQL for Data Science with Python by IBM** - *[](https://coursera.org/share/911dfd11d8aa945c854d4426cc35cb37)*
-* **AWS Academy Graduate - Cloud Architecting** - *[]*
+* **Machine Learning by IBM** - *[link](https://coursera.org/share/79f6d138f3a2e08d8733e911e342cf81)*
+* **Data Analysis with Python by IBM** - *[link](https://coursera.org/share/fcfcc2b24bdc08e43117de448729bc25)*
+* **Data Visualization with Python by IBM** - *[link](https://coursera.org/share/4570d67cea4c01b73f33f550e2c09aaa)*
+* **Databases and SQL for Data Science with Python by IBM** - *[link](https://coursera.org/share/911dfd11d8aa945c854d4426cc35cb37)*
+* **AWS Academy Graduate - Cloud Architecting** 
 * **Paper Presentation:** "Enhancing the Efficacy of IPO Outcome Prediction Through Explainable AI"
 
 ---
