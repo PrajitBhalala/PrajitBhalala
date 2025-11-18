@@ -51,4 +51,4 @@ I believe in using the right tool for the job. Here are the technologies I work 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=radical&hide_border=true" alt="Your Languages" width="48%" />
 </p>
 
-[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=[www.linkedin.com/in/prajitbhalala])
+[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=[Your-LinkedIn-URL])
